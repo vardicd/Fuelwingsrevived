@@ -6,3 +6,8 @@
 @PART[structuralWing3]:FOR[FuelWings]{    MODULE    {        name = ModuleFuelTanks        volume = 15        type = Fuselage    }}
 @PART[structuralWing4]:FOR[FuelWings]{    MODULE    {        name = ModuleFuelTanks        volume = 7        type = Fuselage    }}
 @PART[wingStrake]:FOR[FuelWings]{    MODULE    {        name = ModuleFuelTanks        volume = 14        type = Fuselage    }}
+@PART[sweptWing]:FOR[FuelWings]{    MODULE    {        name = ModuleFuelTanks        volume = 32        type = Fuselage    }}
+@PART[airplaneTail,airplaneTailB]:FOR[FuelWings]{    MODULE    {        name = ModuleFuelTanks        volume = 350        type = Fuselage    }}
+@PART[standardNoseCone]:FOR[FuelWings]{    MODULE    {        name = ModuleFuelTanks        volume = 10        type = Fuselage    }}
+@PART[noseCone]:FOR[FuelWings]{    MODULE    {        name = ModuleFuelTanks        volume = 25        type = Fuselage    }}
+@PART[pointyNoseConeA,pointyNoseConeB]:FOR[FuelWings]{    MODULE    {        name = ModuleFuelTanks        volume = 70        type = Fuselage    }}
