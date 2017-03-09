@@ -1,0 +1,8 @@
+@PART[sweptWing2,wingConnector,wingConnector2]:FOR[FuelWings]{    MODULE    {        name = ModuleFuelTanks        volume = 85        type = Fuselage    }}
+@PART[structuralWing,structuralWing2,wingConnector3,delta_small]:FOR[FuelWings]{    MODULE    {        name = ModuleFuelTanks        volume = 50        type = Fuselage    }}
+@PART[wingConnector5,wingConnector4]:FOR[FuelWings]{    MODULE    {        name = ModuleFuelTanks        volume = 20        type = Fuselage    }}
+@PART[deltaWing]:FOR[FuelWings]{    MODULE    {        name = ModuleFuelTanks        volume = 90        type = Fuselage    }}
+@PART[sweptWing1]:FOR[FuelWings]{    MODULE    {        name = ModuleFuelTanks        volume = 70        type = Fuselage    }}
+@PART[structuralWing3]:FOR[FuelWings]{    MODULE    {        name = ModuleFuelTanks        volume = 15        type = Fuselage    }}
+@PART[structuralWing4]:FOR[FuelWings]{    MODULE    {        name = ModuleFuelTanks        volume = 7        type = Fuselage    }}
+@PART[wingStrake]:FOR[FuelWings]{    MODULE    {        name = ModuleFuelTanks        volume = 14        type = Fuselage    }}
