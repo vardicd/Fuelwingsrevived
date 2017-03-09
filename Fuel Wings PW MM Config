@@ -1,0 +1,5 @@
+@PART[Proceduralwing2]:FOR[FuelWings]{    MODULE    {        name = ModuleFuelTanks        volume = 1000        type = Default    }}
+@PART[Proceduralwing2EndPiece]:FOR[FuelWings]{    MODULE    {        name = ModuleFuelTanks        volume = 1000        type = Default    }}
+@PART[Proceduralwing3]:FOR[FuelWings]{    MODULE    {        name = ModuleFuelTanks        volume = 1000        type = Default    }}
+@PART[ProceduralAllMovingWing]:FOR[FuelWings]{    MODULE    {        name = ModuleFuelTanks        volume = 500        type = Default    }}
+@PART[ProceduralwingSPP]:FOR[FuelWings]{    MODULE    {        name = ModuleFuelTanks        volume = 1000        type = Default    }}
